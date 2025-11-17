@@ -1,0 +1,39 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+
+# Ignore backup files
+*.bak
+*.backup
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore certificate files (should not be committed)
+*.cer
+*.pfx
+*.p12
+*.crt
+*.key
+
+# Ignore local configuration files
+config.local.ps1
+settings.local.ps1
+
+# Ignore test output
+test-results/
+TestResults/
+
+# Ignore PowerShell module cache
+PSModuleCache/
