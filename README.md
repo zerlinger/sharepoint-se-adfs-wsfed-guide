@@ -2,6 +2,15 @@
 
 A comprehensive guide for configuring Microsoft SharePoint Subscription Edition with Active Directory Federation Services (ADFS) using WS-Federation authentication.
 
+## 📚 Documentation
+
+- **[Quick Start Guide](QUICKSTART.md)** - Fast-track configuration for experienced admins
+- **[Configuration Checklist](CHECKLIST.md)** - Step-by-step checklist to track your progress
+- **[Architecture Details](docs/architecture.md)** - Deep dive into authentication flow and components
+- **[Claim Rules Examples](examples/claim-rules.md)** - Various claim rule scenarios
+- **[PowerShell Scripts](scripts/)** - Automation scripts for configuration
+- **[Contributing Guide](CONTRIBUTING.md)** - How to contribute to this project
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Overview](#overview)
